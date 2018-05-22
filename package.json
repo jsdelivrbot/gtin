@@ -14,16 +14,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-sample"
+    "url": "https://github.com/pejakalabhargava/gtin"
   },
   "keywords": [
     "node",
     "heroku",
     "express"
   ],
-  "author": "Mark Pundsack",
-  "contributors": [
-    "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)"
-  ],
+  "author": "Bhargava Kakrannaya",
   "license": "MIT"
 }
