@@ -5,7 +5,7 @@ app.set('port', (process.env.PORT || 5000))
 app.use(express.static(__dirname + '/public'))
 
 app.get('/', function(request, response) {
-  response.send('Welcome to BK Life')
+    res.render('index.html')
 })
 
 app.listen(app.get('port'), function() {
