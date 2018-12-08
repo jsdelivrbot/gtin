@@ -2,6 +2,6 @@
   "name": "Node.js Sample",
   "description": "A barebones Node.js app using Express 4",
   "repository": "https://github.com/pejakalabhargava/gtin",
-  "logo": "https://rawgit.com/pejakalabhargava/gtin/master/public/node.svg",
+  "logo": "https://cdn.jsdelivr.net/gh/pejakalabhargava/gtin/public/node.svg",
   "keywords": ["node", "express", "static"]
 }
